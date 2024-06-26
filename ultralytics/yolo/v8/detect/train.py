@@ -1,4 +1,3 @@
-# Ultralytics YOLO 🚀, GPL-3.0 license
 
 from copy import copy
 
